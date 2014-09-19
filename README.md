@@ -5,4 +5,6 @@ The script run_analysis.R should be in the same folder as the Samsung data from 
 
 It will read the data in test and train folder and merge them to create one data set, extract the measurements on the mean and standard deviation for each measurement, and label the data set with descriptive variable names. 
 
-At the end, it will write a tidy data set with the average of each variable for each activity and each subject
+At the end, it will write a tidy data set called "tidy_data.txt" with the average of each variable for each activity and each subject
+
+More details of the code can be found in CodeBook.md.
